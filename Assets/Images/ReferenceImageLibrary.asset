@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5047373001246813516
+  m_GuidHigh: 15130259005651741599
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5188800579001455611
+      m_GuidHigh: 678801865688673157
+    m_SerializedTextureGuid:
+      m_GuidLow: 4086050420924972414
+      m_GuidHigh: 4186610313773807882
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: EndPoint
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5696917756232386794
+      m_GuidHigh: 12868660213533411735
+    m_SerializedTextureGuid:
+      m_GuidLow: 5977615573345142978
+      m_GuidHigh: 5604436656832028427
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: LeftChecker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4751359706725416094
+      m_GuidHigh: 13023970984613335998
+    m_SerializedTextureGuid:
+      m_GuidLow: 8071629386926706411
+      m_GuidHigh: 7473116346012331625
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: RightChecker
+    m_Texture: {fileID: 0}
